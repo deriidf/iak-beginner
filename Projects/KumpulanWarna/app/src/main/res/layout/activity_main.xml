@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kumpulanwarna.MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/teks1"
+        android:textSize="40sp"
+        android:textColor="@color/putih"
+        android:background="#453246"/>
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:textColor="@color/putih"
+        android:text="@string/teks2"
+        android:textSize="40sp"
+        android:background="#F86254"/>
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/teks3"
+        android:layout_weight="1"
+        android:textColor="@color/putih"
+        android:textSize="40sp"
+        android:background="#B04D5D"/>
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/teks4"
+        android:layout_weight="1"
+        android:textColor="@color/putih"
+        android:textSize="40sp"
+        android:background="#FFD05B"/>
+
+</LinearLayout>

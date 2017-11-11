@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aplikasi Pertama</string>
+    <string name="teks1">AKU TEKS YANG PERTAMA</string>
+    <string name="teks2">AKU TEKS YANG KEDUA</string>
+    <string name="teks3">AKU TEKS YANG KETIGA</string>
+</resources>
