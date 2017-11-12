@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="3"
+    tools:context="com.example.launchpad.MainActivity">
+
+    <Button
+        android:text="1"
+        android:onClick="mainkan1"/>
+    <Button
+        android:text="2"
+        android:onClick="mainkan2"/>
+    <Button
+        android:text="3"
+        android:onClick="mainkan3"/>
+    <Button
+        android:text="4"
+        android:onClick="mainkan4"/>
+    <Button
+        android:text="5"
+        android:onClick="mainkan5"/>
+    <Button
+        android:text="6"
+        android:onClick="mainkan6"/>
+    <Button
+        android:text="7"
+        android:onClick="mainkan7"/>
+    <Button
+        android:text="8"
+        android:onClick="mainkan8"/>
+    <Button
+        android:text="9"
+        android:onClick="mainkan9"/>
+    <Button
+        android:text="a"
+        android:onClick="mainkana"/>
+    <Button
+        android:text="b"
+        android:onClick="mainkanb"/>
+    <Button
+        android:text="c"
+        android:onClick="mainkanc"/>
+
+</GridLayout>
