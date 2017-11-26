@@ -2,6 +2,8 @@ APA?
 
 Membuat Semenarik mungkin profil/portofolio diri beserta link ke aplikasi yang pernah dibuat di lain layout, cara menghubungkan antara layout yaitu dengan menggunakan Intent
 
+Untuk mendapatkan link submit final project cukup request ke fasilitator
+
 REFERENSI
 
 Contoh Project: Terdapat di Folder ContohFinalProject
