@@ -1,15 +1,12 @@
 APA?
 
-Membuat Semenarik mungkin profil/portofolio diri beserta link ke aplikasi yang pernah dibuat di lain layout, cara menghubungkan antara layout yaitu dengan menggunakan Intent
+Membuat aplikasi edukasi mengajar setidaknya 5hal dengan masing masing layout
 
 Untuk mendapatkan link submit final project cukup request ke fasilitator
 
 REFERENSI
 
-Contoh Project: Terdapat di Folder ContohFinalProject
-
-Layout:
-https://classroom.udacity.com/courses/ud834/lessons/46e6b33a-0d6e-433d-9ac4-701a2156d584/concepts/438e4ee4-c6a2-40d4-9c9b-762124e52a2d
+Dasar Ilmu: Terdapat di Folder IlmuDasarFinalProject
 
 Intent: Ebook halaman 379
 
