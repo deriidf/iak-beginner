@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical"
+    tools:context="com.example.tipskeuangandanbisnis.MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tips_keuangan_dan_bisnis"
+        android:textSize="40sp"/>
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="3">
+
+        <Button
+            android:id="@+id/button1"
+            android:padding="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tips\nNabung"
+            android:layout_rowWeight="1"
+            android:onClick="tipsNabung"/>
+
+        <Button
+            android:id="@+id/button2"
+            android:padding="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tips\nBehernti\nBoros"
+            android:layout_rowWeight="1"
+            android:onClick="tipsBerhentiBoros"/>
+
+        <Button
+            android:id="@+id/button3"
+            android:padding="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tips\nMembeli\nSaham"
+            android:layout_rowWeight="1"
+            android:onClick="tipsMembeliSaham"/>
+
+        <Button
+            android:id="@+id/button4"
+            android:padding="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tips\nHemat\nUang"
+            android:layout_rowWeight="1"
+            android:onClick="tipsHematUang"/>
+
+        <Button
+            android:id="@+id/button5"
+            android:padding="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tips\nNagih\nUtang"
+            android:layout_rowWeight="1"
+            android:onClick="tipsNagihUtang"/>
+
+    </GridLayout>
+
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:text="@string/tips_dari_wikihow_id"
+        android:textSize="15sp"/>
+
+
+</LinearLayout>
