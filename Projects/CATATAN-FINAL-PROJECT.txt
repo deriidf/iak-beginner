@@ -10,6 +10,7 @@ atau bisa request link ke fasilitator
 REFERENSI
 
 Dasar Ilmu: Terdapat di Folder IlmuDasarFinalProject
+Contoh FInal Project: Terdapat di Folder TipsKeuanganDanBisnis
 
 Intent: Ebook halaman 379
 
